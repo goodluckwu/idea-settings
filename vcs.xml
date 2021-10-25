@@ -6,8 +6,17 @@
           <option name="url" value="http://v.src.corp.qihoo.net" />
           <option name="userName" value="j-wuzhihao-jk" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:alipay/alipay-sdk-java-all.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alipay/alipay-sdk-java-all.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="D:\Work\Code\github" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
